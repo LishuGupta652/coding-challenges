@@ -1,3 +1,6 @@
+
+# This is the python branch
+=======
 # This is the resolved branch
 
 
@@ -9,6 +12,5 @@
 
 some changes
 Edited from some source
-
 
 
